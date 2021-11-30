@@ -1,0 +1,28 @@
+DOCTYPE html
+
+body{
+    margin: 0px;
+    padding: 0px
+    }
+    #loader{
+    height: 600px;
+    width: 600px;
+    background-color:#FFFAED;
+    position: fixed;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 999;
+    }
+    #loader img{
+      position: absolute;
+      top:50%;
+        left: 50%;
+      transform: translate(-50%,-50%);
+    }
+    h1{color:#AB6C52}
+
+body {
+      font-family: 'Josefin Sans', sans-serif;
+    }
+
